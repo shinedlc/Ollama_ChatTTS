@@ -1,6 +1,8 @@
 # Ollama ChatTTS
 这是一个绑定在 ChatTTS & ChatTTS WebUI & API 项目上的延伸项目，通过调用ChatTTS的API接口功能，使用了 Streamlit 作为 web 界面的前端库
 
+![image](https://github.com/hkgood/Ollama_ChatTTS/blob/main/images/screenshot.png?raw=true)
+
 安装部署：
 1. 安装 Ollama, http://ollama.com
 2. 下载 ChatTTS + Webui 全部分支，以及通过huggingface下载模型文件，https://huggingface.co/2Noise/ChatTTS
