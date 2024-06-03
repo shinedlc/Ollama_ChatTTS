@@ -1,6 +1,6 @@
 # Ollama ChatTTS
+<img src="./images/logo.png" align="center">
 
-![image](./images/screenshot.png?raw=true)
 
 This is an extension project bound to the ChatTTS & ChatTTS WebUI & API project. By calling the ChatTTS API interface functionality, it uses Streamlit as the frontend library for the web interface.
 
@@ -15,6 +15,8 @@ Startup Sequence:
 1. First, start the Ollama local server.
 2. Start the ChatTTS WebUI by running python app.py.
 3. Start the Streamlit application by running streamlit run ollamaChatTTS.py.
+
+<img src="./images/screenshot.png" width="600px" align="center">
 
  ------------------------------------------------
 
