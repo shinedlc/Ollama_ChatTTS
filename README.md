@@ -1,13 +1,21 @@
 # Ollama ChatTTS
 <img src="./images/logo.png" align="center">
 
-
 This is an extension project bound to the ChatTTS & ChatTTS WebUI & API project. By calling the ChatTTS API interface functionality, it uses Streamlit as the frontend library for the web interface.
+
+ ------------------------------------------------
+
+1.0.1 Update Notes:
+
+1. Adding ChatTTS Setting， Now you can change tones, oral style, add laugh, adjust break
+2. Adding Text input mode， just like a Ollama webui
+
+ ------------------------------------------------
 
 Installation and Deployment:
 
 1. Install Ollama from http://ollama.com.
-2. Download the complete branches of ChatTTS + WebUI and the model files from Huggingface: https://huggingface.co/2Noise/ChatTTS.
+2. Download the complete branches of ChatTTS + WebUI and the model files from Huggingface: https://huggingface.co/2Noise/ChatTTS. https://github.com/jianchang512/ChatTTS-ui/
 3. Download the core files of this branch, mainly ollamaChatTTS.py, llmChat.py, and voice.py.
 
 Startup Sequence:
