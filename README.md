@@ -56,3 +56,7 @@ Ollama ChatTTS 是一个绑定在 ChatTTS & ChatTTS WebUI & API 项目上的延�
 
    ```bash
    Streamlit run ollamaChatTTS.py
+
+## 项目趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hkgood/Ollama_ChatTTS&type=Date)](https://star-history.com/#hkgood/Ollama_ChatTTS&Date)
